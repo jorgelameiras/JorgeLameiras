@@ -1,7 +1,7 @@
 ### Hi there 👋, Jorge Lameiras
 #### Programmer and Smart Contract Creator
 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=JorgeLameiras&txt=Here%20is%20my%20custom%20text"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=JorgeLameiras&bg=aqua&fill=black&txt=Welcome%20to%20my%20profile"></p>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
