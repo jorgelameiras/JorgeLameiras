@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Fala Rapaziada 🇧🇷, I'm Jorge Lameiras! <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Jorge Lameiras! <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> // Change the url to output an actually gif
 <p><em>Computer Science Intern at <a href="https://www.hntb.com/">HNTB
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
