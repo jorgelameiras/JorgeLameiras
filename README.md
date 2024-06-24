@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=_jorgelameiras_)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/jorge-lameiras-854a0a223/)
+[![Linkedin: anmol](https://img.shields.io/badge/-Jorge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lameiras-854a0a223/)](https://www.linkedin.com/in/jorge-lameiras-854a0a223/)
 ![GitHub followers](https://img.shields.io/github/followers/jorgelameiras?label=Follow&style=social)
 
 
