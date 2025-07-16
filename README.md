@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Jorge Lameiras! <img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?t=st=1719252713~exp=1719256313~hmac=fec20dad254cf50a23992ad3895e8195d9003ec51d0df24b5fdafa1ef3c98b1c&w=1800"width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Semiconductor cluster manager intern at <a href="https://orlando.org/">OEP - Orlando Economic Partnership
+<p><em>Full-Stack Developer at <a href="https://orlando.org/">ThreatLocker
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -12,11 +12,12 @@
 
 ```javascript
 const anmol = {
-    code: ["Javascript", "Python", "Java", "RUST"],
+    code: ["Javascript", "Python", "Java", "RUST", "SQL", "Angular", "TypeScript"],
     askMeAbout: ["Web3", "Cryptography", "Smart Contracts", "Soccer"],
     technologies: {
         backEnd: {
-            js: ["Node"],
+            C#: ["SQL"],
+            js: ["Node"]
         },
     },
     currentFocus: "Building apps and smart contracts for a future company",
